@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: stttht/test
-          username: '${{ stttht@gmail.com }}'
+          username: '${{ stttht }}'
           password: '${{ zz0923dcdc }}'
