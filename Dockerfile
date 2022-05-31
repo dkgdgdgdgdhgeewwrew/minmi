@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="c982f14f-a62a-49d9-a9c7-859366e45de2"
+ARG AUUID="#####"
 ARG CADDYIndexPage="https://codeload.github.com/openwrt/openwrt/zip/refs/heads/master"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
